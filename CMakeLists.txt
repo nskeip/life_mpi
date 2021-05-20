@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.19)
+cmake_minimum_required(VERSION 3.5)
 project(life_mpi)
 
 include_directories(/usr/include/mpi)
